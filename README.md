@@ -1,5 +1,5 @@
-### Hi there 👋
-> Soy un apasionado a la Informatica y al Deporte. Siempre he sido una persona muy curiosa y activa. He participado en varios proyectos desde mi época de estudiante y luego de terminar mi carrera de grado. Tengo experiencia en infraestructura de red, como SysAdmin y como Coordinador de Equipos técnicos en redes
+### Hello 👋
+> My Name is Carlos, soy un apasionado a la Informatica y al Deporte. I'm from Argentina and I'm a Sysadmin.
 ### ⚡ Relevant achievements
 - SysAdmin Linux/Windows
 - Networker Admin
